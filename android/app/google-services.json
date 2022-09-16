@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "605987572103",
+    "firebase_url": "https://basfirbase-default-rtdb.firebaseio.com",
+    "project_id": "basfirbase",
+    "storage_bucket": "basfirbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605987572103:android:514f9bbde344a9b290eb22",
+        "android_client_info": {
+          "package_name": "com.bas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605987572103-g9itn8qr7apcp1o870poda0gc36gotsp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bas",
+            "certificate_hash": "5626dcb897f2515763342ede5b17668b84b5508d"
+          }
+        },
+        {
+          "client_id": "605987572103-3anlpr84hjeh020aa7o26ggijjdq8p53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgw4qmk21wFXEFnz684mORbGK2hDFVCEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605987572103-3anlpr84hjeh020aa7o26ggijjdq8p53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
