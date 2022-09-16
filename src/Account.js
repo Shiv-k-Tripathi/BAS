@@ -174,7 +174,7 @@ const Account = ({navigation}) => {
   const Edit = () => {
     return (
       <View style={{margin: 10}}>
-        <Icon.Button name="plus" size={20} title="" onPress={() => del()}>
+        <Icon.Button name="plus" size={20} title="" onPress={() =>  del()}>
           Edit Profile
         </Icon.Button> 
       </View>
