@@ -4,7 +4,7 @@ import React from 'react'
 const demo = () => {
   return (
     <View>
-      <Text>demo for add</Text>
+      <Text>demo for add tt</Text>
     </View>
   )
 }
